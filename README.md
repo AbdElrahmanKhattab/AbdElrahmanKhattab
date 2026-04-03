@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElrahmanKhattab&layout=compact&theme=dark)
+![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdElrahmanKhattab&theme=github_dark)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdElrahmanKhattab&color=blue)
