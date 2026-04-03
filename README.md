@@ -16,8 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdElrahmanKhattab&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElrahmanKhattab&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdElrahmanKhattab&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
