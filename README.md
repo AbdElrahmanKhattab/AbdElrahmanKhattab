@@ -24,6 +24,8 @@
 
 ### 🔝 Top Contributed Repo
 ![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdElrahmanKhattab&theme=github_dark)
+![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdElrahmanKhattab&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdElrahmanKhattab&show_icons=true&theme=dark)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdElrahmanKhattab&color=blue)
