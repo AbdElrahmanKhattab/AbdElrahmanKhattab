@@ -1,5 +1,9 @@
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="AbdElrahmanKhattab's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ## 🌐 Socials:
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmanaatef13)
